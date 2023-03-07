@@ -58,26 +58,25 @@
     {
       "scope": [
         "storage",
-        
+        "keyword",
         "meta.return.type",
         "meta.type.annotation",
         "variable.language",
-        "constant.language",
-        "keyword.operator",
 
         "punctuation.definition.template-expression.begin",
         "punctuation.definition.template-expression.end",
       ],
       "settings": {
-        "foreground": "#2a00ff"
+        "foreground": "#aa00cc"
       }
     },
     {
       "scope": [
-        "keyword.control",
+        "constant.language",
+        "keyword.control.at-rule",
       ],
       "settings": {
-        "foreground": "#AF00DB"
+        "foreground": "#2a00ff"
       }
     },
     {
@@ -86,7 +85,7 @@
         "support.function",
       ],
       "settings": {
-        "foreground": "#009ceb"
+        "foreground": "#00ace6"
       }
     },
     {
